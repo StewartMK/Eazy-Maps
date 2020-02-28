@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Eazy Maps</string>
+    <string name="default_access_token">pk.eyJ1IjoiYWNlbWFpIiwiYSI6ImNrNnRmOWpscDAxc3ozbHVlcm1mYnNvOXYifQ.2aiCBwR4S7IStTjph8zR0g</string>
 </resources>
